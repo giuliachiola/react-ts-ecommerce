@@ -6,7 +6,7 @@ Description
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Deploy status	         | \ |
 | Deploy preview   | \                                                                                                                                              |
-| Project typology | Personal/Step by step from tutorial                                                                                                                                                               |
+| Project typology | 📒 Step by step from tutorial [React shopping cart with TypeScript | React Ecommerce](https://www.youtube.com/watch?v=7NqeSf1c-bw&ab_channel=Weibenfalk) |
 
 ![project preview](docs/project-preview.png)
 
